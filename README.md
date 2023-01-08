@@ -1,1 +1,1 @@
-So, this is a test for the master-merge of mybranch2!
+SOOO, this is a test repository for SonarCloud-Test!
